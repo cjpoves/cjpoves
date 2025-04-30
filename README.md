@@ -47,7 +47,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**, buscando oport
 
 ### 📫 Contacto
 
--
 - [LinkedIn](https://www.linkedin.com/in/carlosjavierpovesserradilla/)
 - ✉️ cjpoves@gmail.com
 
