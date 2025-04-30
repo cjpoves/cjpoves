@@ -1,5 +1,3 @@
-![Banner de mi equipo](https://github.com/cjpoves/cjpoves/blob/main/CarlOS%20JAVIER%20POVES.png)
-
 # 👋 ¡Hola, soy Carlos Javier Poves! Soy un desarrollador en formación
 
 Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**, buscando oportunidades de prácticas o empleo junior en desarrollo.
